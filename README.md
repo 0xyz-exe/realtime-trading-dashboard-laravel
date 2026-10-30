@@ -10,6 +10,17 @@ A modern, high-precision financial trading and portfolio management application 
 - **Portfolio & Asset Valuation**: Real-time mark-to-market position calculations, average buy price tracking, and simulated cash deposits.
 - **Watchlist & Order Book**: Quick watchlist pinning and execution feed.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Portofolio & Pasar**<br>Ringkasan total portofolio, saldo kas tersedia, nilai aset mark-to-market, dan ticker pasar 24 jam | ![Dashboard Portofolio & Pasar](docs/screenshots/01-dashboard-overview.png) |
+| **Terminal Trading Interaktif**<br>Pemilihan instrumen aset, grafik candlestick interaktif, formulir order instan Market & Limit, serta streaming riwayat transaksi | ![Terminal Trading Interaktif](docs/screenshots/02-trading-terminal.png) |
+| **Manajemen & Riwayat Order**<br>Daftar eksekusi order komprehensif dengan filter status dan tipe eksekusi | ![Manajemen & Riwayat Order](docs/screenshots/03-orders-history.png) |
+| **Portofolio & Alokasi Modal**<br>Valuasi aset real-time, pantauan harga rata-rata beli, formulir deposit simulasi, dan buku besar transaksi | ![Portofolio & Alokasi Modal](docs/screenshots/04-portfolio-holdings.png) |
+
+---
+
 ## Tech Stack
 
 - **Backend**: Laravel 12.x (PHP 8.3+)
